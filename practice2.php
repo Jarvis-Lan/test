@@ -1,2 +1,2 @@
 <?php
-die('practice2');
+die('practice3');
