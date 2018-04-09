@@ -1,2 +1,2 @@
 <?php 
-echo 'practice';
+echo 'prac';
