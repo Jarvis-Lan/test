@@ -4,9 +4,7 @@ html,body{
     height: 100%;
     overflow: hidden;
 }
-.outer{
-    height: 100%;
-}
+
 .left{
     width: 69%;
     height: 100%;
